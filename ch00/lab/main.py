@@ -12,3 +12,9 @@ print(cost_per_class, type(cost_per_class))
 print(classes_per_week, type(classes_per_week)) 
 print(classes_per_week, type(classes_per_week))
 print(cost_per_class, "You got this!!")
+
+name = input("Enter your name: ")
+
+print("Hello", name)
+print("Python is working!")
+print("Welcome to your first programming lab")
