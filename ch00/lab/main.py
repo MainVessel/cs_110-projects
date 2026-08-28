@@ -18,3 +18,6 @@ name = input("Enter your name: ")
 print("Hello", name)
 print("Python is working!")
 print("Welcome to your first programming lab")
+
+print("I succesfully ran python code!")
+
