@@ -1,0 +1,9 @@
+Assuming that my user is an adult, I will organize my work by title by alphabetical order and genre
+1)Look through the entire shelf and separate the books by genre
+2) Put books of one genre all together until the shelves have been filled
+3) Look through your chosen genre until you find a title starting with 'A' and take note of the title's second letter
+4) Once you find a book with title 'A', then Place that book at the start of the first shelf
+5) Look for another book starting with 'A'
+6) If the second letter comes before the first, place it before the previous book
+7) If you find no books starting with the letter A, replace A with the next letter of the alphabet and repeat steps 4 to 5
+
